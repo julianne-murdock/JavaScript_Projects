@@ -26,3 +26,40 @@ function Color_Function() {
     }
     document.getElementById("Output").innerHTML = Color_Output;
 }
+function Hello_World_Function() {
+    var A = document.getElementsByClassName("Click");
+    A[0].innerHTML = "The text has changed";
+}
+function draw() {
+    const canvas = document.querySelector('#canvas');
+
+    if (!canvas.getContext) {
+        return;
+    }
+    const ctx = canvas.getContext('2d');
+
+    // set line stroke and line width
+    ctx.strokeStyle = 'red';
+    ctx.lineWidth = 5;
+
+    // draw a red line
+    ctx.beginPath();
+    ctx.moveTo(100, 100);
+    ctx.lineTo(300, 100);
+    ctx.stroke();
+
+}
+draw();
+
+function draw1() {
+    var c = document.getElementById("canvas1");
+var ctx = c.getContext("2d");
+
+var grd = ctx.createLinearGradient(0, 0, 170, 0);
+grd.addColorStop(0, "black");
+grd.addColorStop(1, "white");
+
+ctx.fillStyle = grd;
+ctx.fillRect(20, 20, 150, 100);
+}
+draw1();
