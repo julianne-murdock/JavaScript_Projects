@@ -1,0 +1,18 @@
+html {
+    scroll-behavior:smooth;
+}
+
+#wut1 {
+    height:800px;
+    background-color:rgb(230, 185, 126);
+}
+
+#wut2 {
+    height:800px;
+    background-color:rgb(90, 168, 220);
+}
+
+#wut3 {
+    height:800px;
+    background-color:rgb(246, 171, 242);
+}

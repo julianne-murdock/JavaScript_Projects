@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pop Contact Form</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="../CSS/Pop_Contact_Form_Challenge.css">
+    </head>
+    <body>
+        <button class="open-button" onclick="openForm()">Open Form</button>
+        <div class="form-popup" id="myForm">
+            <form class="form-container">
+                <h1>Login</h1>
+
+                <label for="email"><strong>Email</strong></label>
+                <input type="text" placeholder="Enter Email" name="email" required>
+
+                <label for="psw"><strong>Password</strong></label>
+                <input type="password" placeholder="Enter Password" name="psw" required>
+
+                <button type="submit" class="btn">Login</button>
+                <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+            </form>
+        </div>
+    <script src="../JS/Pop_Contact_Form_Challenge.js"></script>
+    </body>
+</html>
