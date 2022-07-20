@@ -1,27 +1,11 @@
 <h1> JavaScripts Project</h1>
 All of the following projects are assignments I did in the JavaScript Course for The Tech Academy! Here are the highlights:
 
-## Basic_JavaScript_Projects
-These projects were the beginning projects for this course
-<a href="https://github.com/julianne-murdock/JavaScript_Projects/tree/main/Basic_JavaScript_Projects">Basic JavaScript</a><br>
-
-## JavaScript_Projects
-These projects were the more advanced projects for this course
-<a href="https://github.com/julianne-murdock/JavaScript_Projects/tree/main/Javascript_Projects">JavaScript Projects</a><br>
-
-## Challenges done in JavaScript, HTML, and CSS
-<https://github.com/julianne-murdock/JavaScript_Projects/tree/main/Javascript_Projects/Challenges">Challenges in JavaScript</a><br>
-
-## Projects
-<a href="https://github.com/julianne-murdock/JavaScript_Projects/tree/main/Javascript_Projects/Calculator">Calculator</a><br>
-<a href="https://github.com/julianne-murdock/JavaScript_Projects/tree/main/Javascript_Projects/Pizza_Project">Pizza Menu</a><br>
-<a href="https://github.com/julianne-murdock/JavaScript_Projects/tree/main/Javascript_Projects/TicTacToe">Tic Tac Toe</a><br>
-
-## Calculator:
-This project features a basic calculator with 4 basic functions, and styled in CSS, and utilizes Javascript.
-
-## Pizza Menu:
-This project is a pizza menu where a user can use multiple inputs to customize their pizza, the theme is based on the carton show called spongebob squarepants.
-
-## Tic Tac Toe:
-This project features a basic tic tac toe game, with a fun twist on the context, and features sounds effects for "placing" X's/O's, winning a match, and achieving a tie.
+<ul>
+  <li><a href="https://github.com/julianne-murdock/Python_Projects/tree/main/DjangoUniversity">Basic JavaScript Projects</a> - These projects were the beginning projects for this course.</li>
+  <li><a href="https://github.com/julianne-murdock/Python_Projects/tree/main/Django_Checkbook">JavaScript Projects</a> - These projects were the more advanced projects for this course.</li>
+  <li><a href="https://github.com/julianne-murdock/Python_Projects/tree/main/Basic_Python_Projects/File_Transfer">JavaScript Challenges</a> - JavaScript Challenges done during the course.</li>
+  <li><a href="https://github.com/julianne-murdock/Python_Projects/tree/main/python-projects">Calculator</a> - This project features a basic calculator with 4 basic functions, and styled in CSS, and utilizes Javascript.</li>
+  <li><a href="https://github.com/julianne-murdock/Python_Projects/tree/main/python-projects">Pizza Menu</a> - This project is a pizza menu where a user can use multiple inputs to customize their pizza, the theme is based on the carton show called spongebob squarepants.</li>
+  <li><a href="https://github.com/julianne-murdock/Python_Projects/tree/main/python-projects">Tic Tac Toe</a> - This project features a basic tic tac toe game, with a fun twist on the context, and features sounds effects for "placing" X's/O's, winning a match, and achieving a tie.</li>
+</ul>
