@@ -2,7 +2,7 @@
 All of the following projects are assignments I did in the JavaScript Course for The Tech Academy! Here are the highlights:
 
 <ul>
-  <li><a href="https://github.com/julianne-murdock/Python_Projects/tree/main/DjangoUniversity">Basic JavaScript Projects</a> - These projects were the beginning projects for this course.</li>
+  <li><a href="https://github.com/julianne-murdock/JavaScript_Projects/tree/main/Basic_JavaScript_Projects">Basic JavaScript Projects</a> - These projects were the beginning projects for this course.</li>
   <li><a href="https://github.com/julianne-murdock/Python_Projects/tree/main/Django_Checkbook">JavaScript Projects</a> - These projects were the more advanced projects for this course.</li>
   <li><a href="https://github.com/julianne-murdock/Python_Projects/tree/main/Basic_Python_Projects/File_Transfer">JavaScript Challenges</a> - JavaScript Challenges done during the course.</li>
   <li><a href="https://github.com/julianne-murdock/Python_Projects/tree/main/python-projects">Calculator</a> - This project features a basic calculator with 4 basic functions, and styled in CSS, and utilizes Javascript.</li>
