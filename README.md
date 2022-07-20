@@ -1,5 +1,5 @@
-# JavaScript-Projects
-All of the following projects are assignments I did in the JavaScript Course for The Tech Academy!
+<h1> JavaScripts Project</h1>
+All of the following projects are assignments I did in the JavaScript Course for The Tech Academy! Here are the highlights:
 
 ## Basic_JavaScript_Projects
 These projects were the beginning projects for this course
